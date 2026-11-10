@@ -1,0 +1,9 @@
+Options -Indexes
+Options +FollowSymLinks
+RewriteEngine On
+
+RewriteBase /
+
+<FilesMatch ".(pl|php|cgi|spl|scgi|fcgi|json)$">
+    Header unset Cache-Control
+</FilesMatch>

@@ -1,0 +1,13 @@
+:root {
+    --color: #ccc;
+    --color-main: #eee;
+    --color-disabled: #aaa;
+    --color-error: red;
+    --color-input-border: #999;
+
+    --color-back: #643264;
+    --color-back-nodd: #744274;
+    --color-back-nodd-dark: #845284;
+    --color-link-hover-back: palevioletred; // #DB7093;
+    --color-link-active-back: #FB90B3;
+}

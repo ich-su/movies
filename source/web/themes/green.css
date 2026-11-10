@@ -1,0 +1,13 @@
+:root {
+    --color: #ccc;
+    --color-main: #eee;
+    --color-disabled: #aaa;
+    --color-error: tomato;
+    --color-input-border: #999;
+    --color-back: rgba(0, 86, 48, 1);
+    --color-back-nodd: #106640;
+    --color-back-nodd-dark: #207650;
+    --color-link-hover-back: #990;
+    --color-link-active-back: #bb0;
+    --color-cmd-result-1: var(--color-link-hover-back);
+}
