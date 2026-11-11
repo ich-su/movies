@@ -15,8 +15,8 @@
 Никаких баз данных нет. Вся информация о фильме находится в его названии файла: “Русское имя. Год выхода (Оригинальное название) Теги через запятую.расширение”. Год выхода, Оригинальное название, Теги необязательны.
 
 Скриншоты:
-* ![](https://github.com/ich-z/movies/blob/main/screenshots/01.png)
-* ![](https://github.com/ich-z/movies/blob/main/screenshots/02.png)
-* ![](https://github.com/ich-z/movies/blob/main/screenshots/03.png)
+* ![](./screenshots/01.png)
+* ![](./screenshots/02.png)
+* ![](./screenshots/03.png)
 
 Программа посвящается лени, плохой памяти, неудержимому росту дискового пространства и минимализму в интерфейсе.
